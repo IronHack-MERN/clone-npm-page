@@ -14,3 +14,6 @@ In this exercise, I apply basic knowledge such as:
 In this exercise, we are cloning one of the previous versions of the home page of the NPM website. NPM is a package manager for NodeJS.
 
 ![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_66957e0bffb5e59c6b1713c489323168.png)
+
+### Deploy
+[clone-npm-page] (https://sophiahelena.github.io/clone-npm-page/)
